@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Competition.ogg-9ee667dfb7373cbc061bd5864951ec83.oggstr"
+
+[deps]
+
+source_file="res://Assets/Music/Competition.ogg"
+dest_files=[ "res://.import/Competition.ogg-9ee667dfb7373cbc061bd5864951ec83.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=2.137
